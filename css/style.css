@@ -197,6 +197,9 @@
     margin-top: 1rem;
     margin-left: 25rem;
   }
+  .text3{
+    padding-top: 3rem;
+  }
 
   .text5{
    font-size: 2rem;
@@ -388,6 +391,7 @@
           }
           
           h2 {
+            margin-top: 1rem;
             font-size: 40px;
             font-weight: bold;
             margin-bottom: 60px;
